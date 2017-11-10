@@ -1,0 +1,3 @@
+Program('build', 'helloworld.c')
+#Program('helloworld.c')
+#Object('helloworld')
